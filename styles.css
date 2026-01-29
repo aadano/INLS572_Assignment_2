@@ -1,8 +1,10 @@
 .backgroundimage {
     background-image: url("UNCCH.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 600px;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
 }
