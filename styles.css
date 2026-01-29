@@ -1,16 +1,14 @@
-header {
-    text-align: center;
-    margin: 20px 0;
-}
-main {
+body {
     position: relative;
-    min-height: 400px;
+    margin: 0;
 }
-.backgroundimage {
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
     background-image: url("UNCCH.png");
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    -webkit-filter: blur(4px);
     filter: blur(4px);
+    z-index: -1;
 }
