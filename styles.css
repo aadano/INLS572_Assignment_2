@@ -1,3 +1,7 @@
+.header {
+    text-align: center;
+    margin: 20px 0;
+}
 .backgroundimage {
     background-image: url("UNCCH.png");
     background-size: cover;
