@@ -19,3 +19,7 @@ body::before {
     max-width: 100px;
     z-index: 1;
 }
+.par1 {
+    position: relative;
+    z-index: 1;
+}
