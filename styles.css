@@ -31,8 +31,34 @@ body::before {
     z-index: 1;
 }
 .par1 {
+    font-family: Roboto;
     position: relative;
     z-index: 1;
+    color: white;
+}
+.pars2 {
+    font-family: Roboto;
+    color: white;
+}
+.pars3 {
+    font-family: Roboto;
+    
+    color: white;
+}
+.pars4 {
+    font-family: Roboto;
+    
+    color: white;
+}
+.pars5 {
+    font-family: Roboto;
+    
+    color: white;
+}
+.pars6 {
+    font-family: Roboto;
+    
+    color: white;
 }
 .instalogo {
     border-radius: 8px;
